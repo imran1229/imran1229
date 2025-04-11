@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed Imran Ahmed
 
-<!--
-**imran1229/imran1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** passionate about backend development, open-source, and building meaningful digital experiences. I love working with Python, JavaScript, and Blockchain technologies.
 
-Here are some ideas to get you started:
+- 🎓 Final Year CSE @ ACS College of Engineering, Bangalore  
+- 💻 Python & Web Development Intern @ BrainWave Matrix Solutions  
+- 🚀 Final Year Project: [FraudBlock](https://github.com/imran1229/FraudBlock) – Fake Product Detection using Blockchain  
+- 🔍 150+ DSA problems solved on [LeetCode](https://leetcode.com/)  
+- 🛠️ Tech Stack: `Python`, `JavaScript`, `Django`, `Node.js`, `HTML/CSS`, `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/imran1229)    
+[Email](mailto:mdimran19181@gmail.com)
+[Instagram](https://www.instagram.com/emraan1229/]
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
